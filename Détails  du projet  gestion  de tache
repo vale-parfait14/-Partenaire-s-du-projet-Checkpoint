@@ -1,5 +1,15 @@
-Nom du projet : Gestion des taches 
-
-Comme son nom l'indique ,le projet aura pour but de maintenir, enregistrer une listes de taches autrement dit une listes d'objectifs à suivre .
-L'implémentation des options comme : la suppression et la mise à jour de la liste de taches  permettront une meilleure gestion de cette dernière.
-L'interface sera simple à l'emploi cela afin de rendre le projet facile à utilisé .
+**************Nom du projet : Gestion des taches***************
+1:L'interface :
+  L'interface sera simple à l'emploi cela afin de rendre le projet facile à utilisé .
+  Le projet aura la capacité de controller les  accès à une liste de taches par le moyen de l'authentification.
+                        ----------------------------------------
+2:Les options:
+  Comme son nom l'indique ,le projet aura pour but de maintenir, enregistrer une listes de taches autrement dit une listes d'objectifs à suivre .
+  L'implémentation des options comme : la suppression et la mise à jour de la liste de taches  permettront une meilleure gestion de cette dernière.
+                        ----------------------------------------
+    A:Optionde suppréssion :
+      Cette option se chargera d'effacer les taches qui ont été atteint  avec succès .
+                                --------------------
+    B:Option de mise à jour :
+      Cette opton se chargera de d'aporter des modifications  à une ou plus informations de la liste des taches à tout moment,
+      la modification  se fera automatiquement .
